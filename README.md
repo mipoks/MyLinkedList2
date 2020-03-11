@@ -16,9 +16,7 @@ You can see [JavaDoc](https://mipoks.github.io/MyLinkedList2/) to read about all
 
 
 
-<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/insert2.PNG" width="250">
-<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2.PNG" width="250">
-<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/divide2.PNG" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/insert2.PNG" width="250"> <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2.PNG" width="250"> <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/divide2.PNG" width="250">
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/maxNum2.PNG" width="250">
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/newList2.PNG" width="250">
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/size2.PNG" width="250">
