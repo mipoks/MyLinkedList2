@@ -6,7 +6,7 @@ It does not implements most of optional list operations, and permits only Intege
 
 ```markdown
 
-Creating Class Instance
+//Creating Class Instance
 
 MyLinkedList2 thisList = new MyLinkedList2();
 
