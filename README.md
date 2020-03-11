@@ -15,6 +15,14 @@ MyLinkedList2 thisList = new MyLinkedList2();
 You can see [JavaDoc](https://mipoks.github.io/MyLinkedList2/) to read about all methods of MyLinkedList2
 
 
-![alt text](https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2PNG.png)
 
-<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2PNG.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/insert2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/divide2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/maxNum2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/newList2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/size2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/MyLinkedList2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/merge2.png" width="250">
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/get2.png" width="250">
+
