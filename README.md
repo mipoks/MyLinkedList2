@@ -15,6 +15,7 @@ MyLinkedList2 thisList = new MyLinkedList2();
 You can see [JavaDoc](https://mipoks.github.io/MyLinkedList2/) to read about all methods of MyLinkedList2
 
 
+Below you can see a graph of time versus number of elements. All methods were tested at low productivity to fix the slightest deviations from the norm. Most methods work for O(n) in theory and for O(1) in practice. On graphs N tends from 0 to 200.
 
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/insert2.PNG" width="250"> <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2.PNG" width="250"> <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/divide2.PNG" width="250">
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/maxNum2.PNG" width="250">
