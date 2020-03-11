@@ -1,5 +1,5 @@
 # MyLinkedList2
-This is simple doubly-linked list.
+This is simple doubly-linked <strong>sorted</strong> list.
 It does not implements most of optional list operations, and permits only Integer values (not including null). I strongly do not recommend using this code in your real projects.
 
 ## Usage
