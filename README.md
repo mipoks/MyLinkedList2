@@ -13,4 +13,8 @@ MyLinkedList2 thisList = new MyLinkedList2();
 ```
 
 You can see [JavaDoc](https://mipoks.github.io/MyLinkedList2/) to read about all methods of MyLinkedList2
+
+
 ![alt text](https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2PNG.png)
+
+<img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/delete2PNG.png" width="250">
