@@ -28,6 +28,7 @@ public class MyLinkedList2  {
      * Constructs a list containing the elements of the specified array.
      * @param arr array containing elements to be added to this list
      * T = O(N * N), N = arr.size()
+     * M = O(N), N = arr.size()
      */
     public MyLinkedList2(int[] arr) {
         size = 0;
@@ -42,6 +43,7 @@ public class MyLinkedList2  {
      * The first list contains all numbers that are multiples of three, the second - all the rest.
      * @return an array of two lists of the elements calculated as above
      * T = O(N * N), N = MyLinkedList2.size()
+     * M = O(N), N = MyLinkedList2.size()
      */
     public MyLinkedList2[] divide() {
         Node now = head;
@@ -66,6 +68,7 @@ public class MyLinkedList2  {
      * and each element is repeated twice.
      * @return list of the elements calculated as above
      * T = O(N * N), N = MyLinkedList2.size()
+     * M = O(N), N = MyLinkedList2.size()
      */
     public MyLinkedList2 newList() {
         MyLinkedList2 newLL2 = new MyLinkedList2();
@@ -87,6 +90,7 @@ public class MyLinkedList2  {
      * Appends the specified element to the list between elements that are smaller and larger than the specified element.
      * @param element element to be appended to this list
      * T = O(N), N = MyLinkedList2.size()
+     * M = O(1)
      */
     public void insert(int element) {
         size++;
@@ -124,6 +128,7 @@ public class MyLinkedList2  {
      * @throws
      * IndexOutOfBoundsException if list does not contain the element on the index position
      * T = O(N), N = MyLinkedList2.size()
+     * M = O(1)
      */
     public int get(int index) {
         if (index >= size)
@@ -139,6 +144,7 @@ public class MyLinkedList2  {
      * Returns the number of elements in the list
      * @return the number of elements in the list
      * T = O(1)
+     * M = O(1)
      */
     public int size() {
         return size;
@@ -150,6 +156,7 @@ public class MyLinkedList2  {
      * @throws
      * NoSuchElementException if specified element is not in this list
      * T = O(N), N = MyLinkedList2.size()
+     * M = O(1)
      */
     public void delete(int element) {
         Node now = head;
@@ -194,6 +201,7 @@ public class MyLinkedList2  {
      * @param myLinkedList2 list with the elements to be appended to this list
      * @return this instance of MyLinkedList2
      * T = O(N * M + M * M), M = myLinkedList2.size(), N = this.size()
+     * M = O(N + M)
      */
     public MyLinkedList2 merge(MyLinkedList2 myLinkedList2) {
         Node tmp = myLinkedList2.head;
@@ -209,6 +217,7 @@ public class MyLinkedList2  {
      * Returns the largest number of identical elements in the list
      * @return the largest number of repetitions
      * T = O(N), N = this.size()
+     * M = O(1)
      */
     public int maxNum() {
         Node tmp = head;
@@ -231,6 +240,7 @@ public class MyLinkedList2  {
      * Returns String with all elements in the list separated by space
      * @return all elements in the list separated by space
      * T = O(N), N = this.size()
+     * M = O(1)
      */
     @Override
     public String toString() {
