@@ -25,3 +25,6 @@ Below you can see a graph of time versus number of random elements. All methods 
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/merge2.PNG" width="250">
 <img src="https://raw.githubusercontent.com/mipoks/MyLinkedList2/master/docs/images/get2.PNG" width="250">
 
+### About Graphs
+By running the program many times, in a lot of methods I got the running time constant.
+I found out that after executing the code T times, the compiler replaces the interpreted code with the compiled one. The JAVA dynamic compiler makes measurements difficult because it removes "dead" sections of code and optimizes the code as a whole. In view of this fact, I decided to use the initial data without repeated measurements.
